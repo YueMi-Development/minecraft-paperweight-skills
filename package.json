@@ -1,12 +1,9 @@
 {
-  "name": "minecraft-paperweight",
+  "name": "minecraft-paperweight-skills",
   "version": "1.0.0",
-  "description": "Agent skill for Minecraft server forks using Paperweight patching workflows.",
-  "main": "SKILL.md",
+  "description": "Agent skill for Minecraft PaperMC Tools.",
   "keywords": [
     "skills",
-    "antigravity",
-    "agent-skills",
     "minecraft",
     "paperweight",
     "paper-fork",
@@ -20,6 +17,6 @@
     "url": "https://github.com/YueMi-Development/minecraft-paperweight-skills"
   },
   "extra": {
-    "ai-agent-skill": "SKILL.md"
+    "ai-agent-skill": "skills/*/SKILL.md"
   }
 }

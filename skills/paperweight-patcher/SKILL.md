@@ -1,5 +1,5 @@
 ---
-name: minecraft-paperweight
+name: minecraft-paperweight-patcher
 description: |
   Patch, build, and modify a Minecraft server fork layered on top of
   Paper via Paperweight — covers Paper-style and Purpur-style forks with
